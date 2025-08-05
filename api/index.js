@@ -387,7 +387,7 @@ export default function handler(req, res) {
             <p>API Base URL: <strong>https://api-sollidam.vercel.app</strong></p>
             <p>Main Application: <strong><a href="https://sollidam.vercel.app" target="_blank">sollidam.vercel.app</a></strong></p>
             <p>Built with 💖 for Heros on Wheels</p>
-            <p><a href="https://github.com/subhashraveendran/sollidam" target="_blank">github.com/subhashraveendran/sollidam</a> (opensource)</p>
+            <p><a href="https://github.com/subhashraveendran/sollidam" target="_blank">Github</a></p>
             <p>For support or questions, please refer to the API documentation above.</p>
         </div>
     </div>
